@@ -1,5 +1,5 @@
 
-# Diseño de instrumentos para enseñar introducción a ritmo y entrenamiento Auditivo.   
+# Diseño de instrumentos para enseñar.   
 
 
 Generador aleatorio de acordes menores y mayores para entrenamiento auditivo.      
