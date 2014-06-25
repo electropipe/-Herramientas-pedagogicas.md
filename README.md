@@ -10,4 +10,4 @@ Loops para improvisar bajos, armonía y melodía.
 
 Sintetizador (o instrumento minimo) que permita exponer diferentes tipos de onda, filtros, envelopes, LFO etc.
 
-
+Secuenciador
