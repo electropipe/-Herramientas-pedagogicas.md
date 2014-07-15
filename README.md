@@ -14,6 +14,11 @@ A la hora de hacer un juego que implique atención o destreza rítmica, es bueno
 
 Primero tocar y luego escuchar: hablar con coni  
 
+El objetivo e inicio de los juegos es sentir la música mas que difundir contenido teórico.   
+los nombres y las explicaciones vienen después.    
+Cada clase debe ir  en lo posible acompañada de ritmo melodía y  armonía.    
+Cuando solo se disponga de un instrumento para todos, las actividades deben rotar la gente  mientras los demás hacen rítmica corporal.  
+
 
 ### Diseño de instrumentos para enseñar.    
 Generador aleatorio de acordes menores y mayores para entrenamiento auditivo.        
