@@ -15,7 +15,7 @@ A la hora de hacer un juego que implique atención o destreza rítmica, es bueno
 Primero tocar y luego escuchar: hablar con coni  
 
 
-## Diseño de instrumentos para enseñar.    
+### Diseño de instrumentos para enseñar.    
 Generador aleatorio de acordes menores y mayores para entrenamiento auditivo.        
 
 Loops para interactuar rítmicamente y hacer juegos de pregunta y respuesta.    
