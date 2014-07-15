@@ -1,5 +1,5 @@
 
-# Diseño de instrumentos para enseñar.   
+
 
 ### Tips para motivación infantil:
 
@@ -15,13 +15,12 @@ A la hora de hacer un juego que implique atención o destreza rítmica, es bueno
 Primero tocar y luego escuchar: hablar con coni  
 
 
+## Diseño de instrumentos para enseñar.    
+Generador aleatorio de acordes menores y mayores para entrenamiento auditivo.        
 
-Generador aleatorio de acordes menores y mayores para entrenamiento auditivo.      
+Loops para interactuar rítmicamente y hacer juegos de pregunta y respuesta.    
 
-Loops para interactuar rítmicamente y hacer juegos de pregunta y respuesta.  
+Loops para improvisar bajos, armonía y melodía.       
 
-Loops para improvisar bajos, armonía y melodía.     
+Sintetizador (o instrumento minimo) que permita exponer diferentes tipos de onda, filtros, envelopes, LFO etc.  
 
-Sintetizador (o instrumento minimo) que permita exponer diferentes tipos de onda, filtros, envelopes, LFO etc.
-
-Secuenciador
