@@ -41,3 +41,18 @@ Loops para improvisar bajos, armonía y melodía.
 
 Sintetizador (o instrumento minimo) que permita exponer diferentes tipos de onda, filtros, envelopes, LFO etc.  
 
+
+##  Reglas para engancharlos
+
+1. Calentamiento mental
+2. Usar movimiento corporal para mantener la atención
+3. Enseñarles a colaborar
+4. ponerlos a escribir cuando quieren calmar las cosas o reflexionar sobre algo
+5. Hacer una estructura apretada para dar una instrucción (fila, o formarse de alguna manera)
+6. Usar la taza de la justicia para manterner a los estudiantes pensando
+7. 
+
+Traduciendo de : http://www.edutopia.org/classroom-student-participation-tips
+
+
+
